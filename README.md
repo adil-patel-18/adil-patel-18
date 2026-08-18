@@ -202,15 +202,13 @@ After strengthening my Data Analytics foundation, I plan to explore:
 <br><br>
 
 <img src="https://streak-stats.demolab.com/?user=adil-patel-18&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
+🔥 Contribution Streak
 
 <div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=adil-patel-18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+</div>
+
 
 </div>
