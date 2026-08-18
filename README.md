@@ -2,37 +2,35 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1200&color=3776AB&center=true&vCenter=true&width=750&lines=B.Sc.+Computer+Science+Student+%F0%9F%8E%93;Aspiring+Data+Analyst+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%7C+Pandas+%F0%9F%90%8D;Passionate+About+Data+%26+Analytics+%F0%9F%93%88;Future+Data+Scientist+%F0%9F%A4%96" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=3776AB&center=true&vCenter=true&width=750&lines=B.Sc.+Computer+Science+Student+%F0%9F%8E%93;Aspiring+Data+Analyst+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%7C+Pandas+%F0%9F%90%8D;Passionate+About+Data+%26+Analytics+%F0%9F%93%88;Future+Data+Scientist+%F0%9F%A4%96" alt="Typing Animation" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=adil-patel-18&label=Profile%20Views&color=3776AB&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=adil-patel-18&label=Profile%20Views&color=3776AB&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🌟 About Me
 
-I'm a **B.Sc. Computer Science student** passionate about **Data Analytics and Data Science**.
+🎓 I'm a **B.Sc. Computer Science student** passionate about **Data Analytics and Data Science**.
 
-Currently, I'm focused on building a strong foundation in **Data Analytics** using Python, SQL, PostgreSQL, Excel, Pandas, NumPy, and Power BI.
+📊 Currently, my main focus is **Data Analytics** — learning how to clean, analyze, visualize, and understand data.
 
-I enjoy working with data, finding patterns, creating visualizations, and turning raw data into meaningful insights.
+🐍 I enjoy working with **Python, SQL, PostgreSQL, Excel, Pandas, NumPy, and Power BI**.
 
-🎯 **Current Goal:** Become a skilled Data Analyst  
-🚀 **Future Goal:** Grow into a Data Scientist  
-🌱 **Currently Learning:** Pandas, Power BI, Data Visualization & Statistics
+🚀 My long-term goal is to grow from a **Data Analyst into a Data Scientist**.
 
-I believe in **learning by building real-world projects, solving problems, and continuously improving.** 🚀
+💡 I believe in **learning by building real-world projects, solving problems, and improving every day.**
 
 ---
 
 ## 🧑‍💻 Quick Facts
 
 - 🎓 B.Sc. Computer Science Student
-- 📊 Focused on **Data Analytics**
-- 🤖 Long-term goal: **Data Science**
+- 📊 Current Focus: **Data Analytics**
+- 🤖 Future Goal: **Data Science**
 - 🐍 Working with **Python**
 - 🗄️ Practicing **SQL & PostgreSQL**
 - 📈 Learning **Data Visualization**
@@ -102,7 +100,7 @@ Building practical projects using real-world datasets.
 
 `Python` `Pandas` `NumPy` `SQL` `Excel` `Power BI` `Matplotlib`
 
-**Working on:**
+**Areas I'm exploring:**
 
 - 🧹 Data Cleaning
 - 🔍 Exploratory Data Analysis
@@ -173,14 +171,24 @@ After strengthening my Data Analytics foundation, I plan to explore:
 <div align="center">
 
 ```text
-🎓 B.Sc. Computer Science
-          ↓
-📊 Data Analytics
-          ↓
-🐍 Python + SQL + Excel + Power BI
-          ↓
-📈 Data Visualization + Statistics
-          ↓
-🤖 Data Science
-          ↓
-🧠 Machine Learning & Advanced Analytics
+        🎓 B.Sc. Computer Science
+                  │
+                  ▼
+          📊 Data Analytics
+                  │
+        ┌─────────┼─────────┐
+        ▼         ▼         ▼
+      🐍 Python  🗄️ SQL   📈 Power BI
+        │         │         │
+        └─────────┼─────────┘
+                  ▼
+          📊 Data Visualization
+                  │
+                  ▼
+             📐 Statistics
+                  │
+                  ▼
+          🤖 Data Science
+                  │
+                  ▼
+       🧠 Machine Learning
