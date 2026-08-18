@@ -77,15 +77,15 @@ Currently learning **Pandas, Power BI, and data visualization** while working to
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+<a href="https://www.linkedin.com/in/pateladil18/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME/" target="_blank">
+<a href="https://www.instagram.com/adil_patel_18/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
-<a href="https://www.codechef.com/users/YOUR-CODECHEF-USERNAME" target="_blank">
+<a href="https://www.codechef.com/users/adil_patel_18" target="_blank">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
 </a>
 
