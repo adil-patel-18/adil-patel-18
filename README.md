@@ -69,6 +69,30 @@ Currently learning **Pandas, Power BI, and data visualization** while working to
 
 ---
 
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/adil-patel-18" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://www.codechef.com/users/YOUR-CODECHEF-USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
+</a>
+
+</div>
+
+---
+
 # 📊 GitHub Stats
 
 <div align="center">
@@ -117,4 +141,4 @@ Currently learning **Pandas, Power BI, and data visualization** while working to
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
