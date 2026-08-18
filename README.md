@@ -1,94 +1,173 @@
 # 👋 Hi, I'm Adil Patel
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3776AB&center=false&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+PostgreSQL;Data+Analytics+%7C+Data+Visualization;Turning+Data+into+Insights+%F0%9F%93%8A" alt="Typing SVG" />
+### 🎓 B.Sc. Computer Science Student | 📊 Aspiring Data Analyst | 🤖 Future Data Scientist
 
-### 🎓 B.Sc. Computer Science Student | 📊 Aspiring Data Analyst
+Welcome to my GitHub! 👋
 
-> **Turning raw data into meaningful insights and practical solutions.**
+I'm a Computer Science student passionate about **Data Analytics and Data Science**.
 
-I'm a Computer Science student passionate about **Data Analytics, Data Science, and Business Intelligence**.
+Currently, I'm focused on building a strong foundation in **Data Analytics** using Python, SQL, PostgreSQL, Excel, Pandas, and Power BI.
 
-I enjoy exploring datasets, cleaning and analyzing data, writing SQL queries, creating visualizations, and finding insights that can support better decisions.
+I enjoy working with data, finding patterns, creating visualizations, and turning raw data into meaningful insights.
 
-- 🔭 Currently working on **Data Analytics & Python projects**
-- 🌱 Currently learning **Pandas, Power BI, Advanced SQL & Data Visualization**
-- 🐍 Strong interest in **Python & Data Analysis**
-- 🗄️ Experience with **SQL & PostgreSQL**
-- 🌐 Hands-on experience building applications with **Flask + PostgreSQL**
-- 🎯 Career Goal: **Data Analyst**
-- 💬 Ask me about **Python, SQL, PostgreSQL, Excel & Data Analysis**
+🎯 **Current Goal:** Become a skilled Data Analyst  
+🚀 **Future Goal:** Grow into a Data Scientist  
+🌱 **Currently Learning:** Pandas, Power BI, Data Visualization & Statistics
+
+I believe in **learning by building real-world projects, solving problems, and continuously improving.** 🚀
 
 ---
 
-# 🧠 Skills & Technologies
+## 🧑‍💻 About Me
+
+- 🎓 B.Sc. Computer Science Student
+- 📊 Currently focused on **Data Analytics**
+- 🤖 Future goal: **Data Science**
+- 🐍 Learning and working with **Python**
+- 🗄️ Practicing **SQL & PostgreSQL**
+- 📈 Exploring **Data Visualization**
+- 📊 Learning **Power BI & Excel**
+- 🌱 Improving my skills through practical projects
+- 💡 Interested in solving real-world problems using data
+
+---
+
+## 🛠️ Tech Stack
 
 ### 🐍 Programming
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### 📊 Data Analytics
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🗄️ Database & SQL
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🗄️ Database
+
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🌐 Web Development
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+## 📊 Data Analytics Skills
+
+I'm currently developing skills in:
+
+- 🧹 Data Cleaning & Preprocessing
+- 🔍 Exploratory Data Analysis (EDA)
+- 🗄️ SQL Data Analysis
+- 📈 Data Visualization
+- 📊 Dashboard Development
+- 📋 Excel Data Analysis
+- 🐼 Pandas & NumPy
+- 📐 Basic Statistics
+- 💡 Finding Business Insights
+
+---
+
+## 🚀 Projects
 
 ### 📊 Data Analytics Projects
 
-🔹 **Exploratory Data Analysis**
-- Data cleaning and preprocessing
-- Handling missing values
-- Statistical analysis
-- Identifying trends and patterns
-- Data visualization
+I'm building practical projects to improve my ability to work with real-world datasets.
 
-🔹 **SQL Data Analysis**
-- Complex SQL queries
-- Joins and subqueries
-- Aggregations
-- CTEs
-- Window functions
-- Business-focused analysis
+**Working with:**
 
-🔹 **Power BI Dashboard**
-- Interactive dashboards
-- KPIs and business metrics
-- Charts and visualizations
-- Data-driven insights
+`Python` `Pandas` `NumPy` `SQL` `Excel` `Power BI` `Matplotlib`
 
-### 🌐 Flask + PostgreSQL Applications
+Areas I'm exploring:
 
-Building practical web applications using:
-
-`Python` → `Flask` → `PostgreSQL` → `HTML` → `CSS`
+- Data Cleaning
+- Exploratory Data Analysis
+- Business Insights
+- Sales Analysis
+- Customer Analysis
+- Data Visualization
+- Dashboard Development
 
 ---
 
-# 📚 Currently Learning
+### 🗄️ SQL & PostgreSQL Projects
+
+Practicing SQL using real-world business scenarios.
+
+**Topics include:**
+
+- SELECT & WHERE
+- GROUP BY & HAVING
+- JOINs
+- Subqueries
+- CTEs
+- Aggregate Functions
+- Window Functions
+- Data Filtering & Analysis
+
+---
+
+### 🌐 Flask + PostgreSQL Projects
+
+I also enjoy building applications using:
+
+`Python` → `Flask` → `PostgreSQL` → `HTML` → `CSS`
+
+These projects help me understand both **application development and database management**.
+
+---
+
+## 🌱 Currently Learning
+
+### 📊 Data Analytics — Current Focus
+
+- 🐼 Pandas
+- 🔢 NumPy
+- 📊 Power BI
+- 📈 Data Visualization
+- 🗄️ Advanced SQL
+- 📐 Statistics
+- 🧹 Data Cleaning
+- 🔍 Exploratory Data Analysis
+
+### 🤖 Data Science — Future Learning
+
+After strengthening my Data Analytics foundation, I plan to learn:
+
+- 🤖 Machine Learning
+- 🧠 Scikit-learn
+- 📊 Predictive Analytics
+- 🔧 Feature Engineering
+- 📐 Advanced Statistics
+- 🧠 Deep Learning
+- 🗣️ Natural Language Processing
+
+---
+
+## 🎯 My Career Journey
 
 ```text
-Python          ████████████████████  90%
-SQL             ██████████████████░░  85%
-PostgreSQL      █████████████████░░░  80%
-Excel           █████████████████░░░  80%
-Pandas          ██████████████░░░░░░  70%
-Power BI        ████████████░░░░░░░░  60%
-Statistics      ███████████░░░░░░░░░  55%
+🎓 B.Sc. Computer Science
+          ↓
+📊 Data Analytics
+          ↓
+🐍 Python + SQL + Excel + Power BI
+          ↓
+📈 Data Visualization + Statistics
+          ↓
+🤖 Data Science
+          ↓
+🧠 Machine Learning & Advanced Analytics
