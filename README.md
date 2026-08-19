@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Adil Patel
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;Python+%7C+SQL+%7C+PostgreSQL+%7C+Excel;Learning+Pandas+%7C+Power+BI+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+*Data Analytics + Data Science+%F0%9F%93%8A;Python+%7C+SQL+%7C+PostgreSQL+%7C+Excel;Learning+Pandas+%7C+Power+BI+%F0%9F%9A%80" />
 
 </div>
 
@@ -14,6 +14,28 @@ B.Sc. Computer Science student passionate about **Data Analytics and Data Scienc
 
 Currently learning **Pandas, Power BI, and data visualization** while working toward a career as a **Data Analyst**.
 
+---
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/adil-patel-18" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/in/pateladil18/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.instagram.com/adil_patel_18/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://www.codechef.com/users/adil_patel_18" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
+</a>
+
+</div>
 ---
 
 # 💻 Tech Stack
@@ -68,28 +90,6 @@ Currently learning **Pandas, Power BI, and data visualization** while working to
 </div>
 
 ---
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/adil-patel-18" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="https://www.linkedin.com/in/pateladil18/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://www.instagram.com/adil_patel_18/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-<a href="https://www.codechef.com/users/adil_patel_18" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
-</a>
-
-</div>
 
 ---
 
