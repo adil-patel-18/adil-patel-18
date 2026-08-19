@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Adil Patel
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+*Data Analytics + Data Science+%F0%9F%93%8A;Python+%7C+SQL+%7C+PostgreSQL+%7C+Excel;Learning+Pandas+%7C+Power+BI+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+*Data+Analytics+%F0%9F%93%8A;Python+%7C+SQL+%7C+PostgreSQL+%7C+Excel;Learning+Pandas+%7C+Power+BI+%F0%9F%9A%80" />
 
 </div>
 
@@ -14,7 +14,7 @@ B.Sc. Computer Science student passionate about **Data Analytics and Data Scienc
 
 Currently learning **Pandas, Power BI, and data visualization** while working toward a career as a **Data Analyst**.
 
----
+
 # 🌐 Connect With Me
 
 <div align="center">
@@ -36,7 +36,7 @@ Currently learning **Pandas, Power BI, and data visualization** while working to
 </a>
 
 </div>
----
+
 
 # 💻 Tech Stack
 
