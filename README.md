@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Adil Patel
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+*Data+Analytics+%F0%9F%93%8A;Python+%7C+SQL+%7C+PostgreSQL+%7C+Excel;Learning+Pandas+%7C+Power+BI+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;Future+Data+Scientist+%F0%9F%A4%96;Python+%7C+SQL+%7C+PostgreSQL+%7C+Excel;Learning+Pandas+%7C+Power+BI+%F0%9F%9A%80" />
 
 </div>
 
@@ -46,7 +46,7 @@ Currently learning **Pandas, Power BI, and data visualization** while working to
 
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Java-3670A0?style=for-the-badge&logo=java&logoColor=white">
 <br><br>
 
 ## 🌐 Web Development
