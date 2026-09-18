@@ -47,6 +47,7 @@ Currently learning **Pandas, Power BI, and data visualization** while working to
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/Java-3670A0?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <br><br>
 
 ## 🌐 Web Development
